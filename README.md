@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello everyone! 👋
 
-Welcome to my profile. Projects are to follow shortly.
+Welcome to my profile. My mobile programming projects are to follow shortly.
 
+
+- 🔭 I’m currently working on ... my profile.
 
 <!--
 **donnist/donnist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
